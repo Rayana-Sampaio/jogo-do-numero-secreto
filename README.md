@@ -10,7 +10,7 @@
 
 <h2>Visualização inicial da página: </h2>
 <div>
-  <a href="jogo-do-numero-secreto-weld-beta.vercel.app">
-  <img src="img/visualizaçao.png" width="500" height=250>
+  <a href="https://jogo-do-numero-secreto-weld-beta.vercel.app" target="_blank">
+  <img src="img/visualizaçao.png" alt="Visualização da página" width="500" height=250>
   </a>
 </div>
